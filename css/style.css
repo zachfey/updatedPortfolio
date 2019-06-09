@@ -1378,6 +1378,10 @@ content: "";
     width: 100%;
 }
 
+#veggieswap{
+    height:150px;
+}
+
 .portfolio-items article:hover img
 {
 
